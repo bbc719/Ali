@@ -5,6 +5,7 @@
 <script>
 export default {
 	setup() {
+		const i = 0;
 		return {};
 	},
 };
